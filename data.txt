@@ -1,0 +1,3 @@
+address1;seedPhrase1(12 words only)
+address2;seedPhrase2(12 words only)
+...
