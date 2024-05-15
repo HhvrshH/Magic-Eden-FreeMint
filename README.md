@@ -1,4 +1,4 @@
-# TAIKO AIO
+# MAGIC EDEN FREE NFT
 
 Written by: @hvrsh (TG)
 
