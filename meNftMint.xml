@@ -564,7 +564,7 @@
                   section_insert()
                      section_start("", 360165825)!
                      /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoicnUiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6InxbW1NPTF1dfCBCYWxhbmNlIGxlc3MgdGhhbiAwLjAxIiwiY2xhc3MiOiJzdHJpbmcifSx7ImlkIjoiZW4iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6InxbW1NPTF1dfCBCYWxhbmNlIGxlc3MgdGhhbiAwLjAxIiwiY2xhc3MiOiJzdHJpbmcifSx7ImlkIjoibGV2ZWwiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImluZm8iLCJjbGFzcyI6InN0cmluZyJ9LHsiaWQiOiJjb2xvciIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoicmVkIiwiY2xhc3MiOiJzdHJpbmcifV19*/
-                     logger_log({"color": ("red"), "en": ("|" + VAR_SOL + "| Balance less than 0.01"), "level": ("info"), "ru": ("|" + VAR_SOL + "| Balance less than 0.01")})
+                     logger_log({"color": ("red"), "en": ("|" + VAR_SOL + "| Balance less than 0.03"), "level": ("info"), "ru": ("|" + VAR_SOL + "| Balance less than 0.03")})
                      section_end()!
 
                   })!
